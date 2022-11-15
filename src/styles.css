@@ -1,0 +1,13 @@
+body {
+  background: bisque;
+  margin: 50px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+#navigation-links {
+  max-width: 500px;
+}
